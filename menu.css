@@ -79,3 +79,13 @@ body {
     text-shadow: 5px 2px 5px white;
   }
 }
+@media (max-width: 2000.98px){
+  .menu ul li a{
+ 
+    padding: 8px 211px;
+    display: inline-block;
+    color: rgb(250, 249, 250);  
+    text-decoration: none;
+    
+  
+  }
