@@ -10,10 +10,7 @@ body {
      background-attachment: fixed;
 
     }
-h1{
-      color: black;
-      text-shadow: 5px 2px 5px blue;
-    }
+
     p{
       font-indent: 10000px;
     }
@@ -68,5 +65,17 @@ h1{
     text-decoration: none;
     
   
+  }
+}
+@media (max-width: 1800.98px) {
+  h1{
+    color: black;
+    text-shadow: 5px 2px 5px blue;
+  }
+}
+@media (max-width: 1000.98px){
+  h1{
+    color: black;
+    text-shadow: 5px 2px 5px white;
   }
 }
