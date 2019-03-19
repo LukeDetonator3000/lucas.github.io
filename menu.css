@@ -48,7 +48,7 @@ h1{
      top: auto;
      
 }
-@media (min-width: 407.98px) {
+@media (max-width: 1800.98px) {
   .menu ul li a{
  
     padding: 8px 141px;
@@ -59,10 +59,10 @@ h1{
   
   }
 }
-@media (min-width: 407.98px) and (max-height: 1760px){
+@media (max-width: 1000.98px){
   .menu ul li a{
  
-    padding: 8px 93px;
+    padding: 8px 90px;
     display: inline-block;
     color: rgb(250, 249, 250);  
     text-decoration: none;
