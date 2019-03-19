@@ -51,7 +51,7 @@ h1{
 @media (max-width: 768px) {
   .menu ul li a{
  
-    padding: 8px 10px;
+    padding: 8px 7px;
     display: inline-block;
     color: rgb(250, 249, 250);
     text-decoration: none;
