@@ -36,15 +36,7 @@ h1{
   display: inline;
 
 }
-.menu ul li a{
- 
-  padding: 8px 141px;
-  display: inline-block;
-  color: rgb(250, 249, 250);
-  text-decoration: none;
-  
 
-}
 .menu ul li a:hover{
  border-radius: 5px;
   color: black;
@@ -56,10 +48,10 @@ h1{
      top: auto;
      
 }
-@media (max-width: 407.98px) {
+@media (max-width: 768px) {
   .menu ul li a{
  
-    padding: 8px 5px;
+    padding: 8px 10px;
     display: inline-block;
     color: rgb(250, 249, 250);
     text-decoration: none;
@@ -67,10 +59,10 @@ h1{
   
   }
 }
-@media (min-width: 768px) {
+@media (min-width: 407.98px) {
   .menu ul li a{
  
-    padding: 8px 140px;
+    padding: 8px 141px;
     display: inline-block;
     color: rgb(250, 249, 250);
     text-decoration: none;
